@@ -1,38 +1,25 @@
-En este repositorio centralizaremos toda la información relativa a los **Proyectos de Desarrollo de Aplicaciones Web del I.E.S Alixar**.
-Al continuación encontraremos los **apellidos y nombre** del alumno/a junto al **título de su proyecto**. El enlace nos dará acceso al repositorio del proyecto (no a la página GitHub del usuario).
+# Gestor de Tareas FCT
 
-En este repositorio se debe incluir la documentación especificada en [Requerimientos y criterios a seguir en el desarrollo de los proyectos](https://github.com/iesalixar/plantilla_proyecto_iesalixar/wiki/a.---Criterios-comunes-para-todos-los-proyectos), así como las indicaciones que el tutor haya podido ir a realizando a lo largo del desarrollo del mismo.
-
-El desarrollo de toda Aplicación Web requiere seguir un [proceso estructurado](https://github.com/iesalixar/plantilla_proyecto_iesalixar/wiki/w1.--PROCESO-ESTRUCTURADO-PARA-DESARROLLO-DE-APLICACIONES-WEB), este  de contenido de la wiki te puede ayudar.
-
-
----
-
-**Los párrafos anteriores son informativos y no deben aparecer en el reposotirio de los alumnos.**
-
----
-
-# Título del Proyecto
-
-#### Curso Escolar 20XX-20XX
-#### Autor: [Nombre del alumno autor](Enlace a su cuenta de gitHub)
-#### Tutor: [Nombre del profesor tutor](Enlace a su cuenta de gitHub)
+#### Curso Escolar 2021-2022
+#### Autor: Raúl Mariño López(https://github.com/raulmarinol/Proyecto_Final_DAW)
+#### Tutor: José María García Durán(Enlace a su cuenta de gitHub)
 #### Fecha de Inicio: DD-MM-YYYY
-#### Fecha de Finalización: DD-MM-YYYY
+#### Fecha de Finalización: 01/04/2021
 
 ## Breve descripción del proyecto
 
-Si ya tienes una idea para tu aplicación, explícala brevemente. Si no es así, lo que realmente necesitas es **buscar un problema o necesidad a la que darle solución**, y estos **están por todas partes**. Así que trata de buscar problemas o necesidades en tu vida diaria y realiza una lista. Una vez que tengas una lista exhaustiva, ya puedes empezar a pensar en **cómo puedes resolverlos**.
+Este proyecto consiste en una aplicación web en la que se prodra gestionar las tareas realizadas en la FTC, para que el centro pueda seguir un correcto seguimiento de los alumnos que estan realizando la formación en las empresas, al igual que los tutores de las empresas puedan ver las tareas de los alumnos que están realizando la formación con ellos.
 
-En este apartado el alumno debe hacer una breve descripción del proyecto que vaya a realizar. Esta descripción no será ua descripción detallada, será una presentación general con no más de 10 líneas.
 
 ## Definir el objetivo de la aplicación
-**Tener una gran idea** o encontrar un punto del mercado al que no se esté dando un producto o servicio es el punto de partida en cada nuevo proyecto. Antes de comenzar debes **definir claramente el propósito y la misión de la aplicación web**:
 
-- **¿Qué va a hacer la aplicación?**
-- **¿Cuál es su atractivo principal?** 
-- **¿Qué problema concreto va a resolver?** 
-- **¿Qué necesidad va a cubrir?**
+Este proyecto permitira una mayor comunicación entre los alumnos y el profesorado.
+La aplicación web permitira la creación de nuevos profesores, alumnos y tutores de las diferentes emmpresas.
+Los alumnos prodran gestionar las tareas que realizaras durante su formación, a su vez prodran hacer una busqueda entre dos fechas concretas y generar un PDF el cual sera enviado a su tutor de la empresa para que este lo firme y se lo reenvie a  su tutor de FTC del instituto.
+El administrador de la aplicación podra realizar todas las operaciones correspondientes de la aplicación menos editar tareas. Sera el encargado de de dar de alta a los profesores.
+Los profesores seran lo encargados a dar de alta a los alumnos que les corresponde y a los tutores de las empresas donde estan realizando las practicas dichos añumnos.
+Los alumnos solo podran gestionar el CRUD correspondiente a las tareas que ellos realizen y editar algun datos de ellos mismos.
+Los tutores de las empresa solo podran ver un listado de los alumnos de su propia empresa, las tarteas que estos han realizado y editar algún dato de ellos mismos. 
 
 ## Prototipo de la Interfaz del proyecto
 
