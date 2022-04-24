@@ -23,7 +23,9 @@ Los tutores de las empresa solo podran ver un listado de los alumnos de su propi
 
 ## Prototipo de la Interfaz del proyecto
 
-En este apartado el alumno insertará la documentación del prototipo del proyecto (sketch, wireframe, mockup y un prototipo HTML y CSS)  que permite al cliente previsualizar el resultado final del producto que se está desarrollando.
+A conyinuación se ira detallando la evolución del prototipo según sus fases.
+
+
 
 ....
 ....
@@ -31,7 +33,15 @@ En este apartado el alumno insertará la documentación del prototipo del proyec
 
 ## Estructura del Proyecto
 
-En este apartado el alumno explicará el contenido del repositorio y de todas las carpetas relevantes del mismo.
+El repositorio se compone de:
+
+docs/ : Directorio destinado a la documentación del proyecto.
+Arquitectura/ : Recoge la información destinada a la arquitectura de la aplicación.
+Diseño/: Documentos de diseño referentes al desarrollo de la aplicación.
+Documentación: Documentos finales de entrega de la aplicación.
+src/ : Directorio destinado al desarrollo del proyecto.
+BackEnd/ : Archivos de desarrollo de la parte Back-End de la aplicación.
+FrontEnd/ : Archivos de desarrollo de la parte Front-end.
 
 ## Demostración del proyecto
 
